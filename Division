@@ -1,0 +1,7 @@
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+    floar_division=a//b
+    print(floar_division)
+    division=a/b
+    print(division)
